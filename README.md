@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceylon01&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ceylon01&show_icons=true&theme=radical)
+
 <!--
 **Ceylon01/Ceylon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
